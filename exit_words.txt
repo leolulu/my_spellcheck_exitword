@@ -1,0 +1,4 @@
+none
+adj
+adv
+prep
